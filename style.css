@@ -1,0 +1,114 @@
+
+
+
+body{
+	
+	background-image:url(sneaker.jpg);
+}
+
+.logbody{
+	background-image:url(loginpage.jpg);
+	background-size:cover;
+	
+}
+
+.header{
+	
+	margin:150px auto 150px auto;
+	width:50%;
+	text-align:center;
+	color:black;
+	
+	
+}
+
+#username{
+	padding:5px;
+	border-radius:5px;
+}
+
+#password{
+	padding:5px;
+	border-radius:5px;
+}
+
+.username{
+	margin-bottom:30px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin-top:200px;
+	
+}
+
+.password{
+	margin-bottom:30px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+}
+
+.header2{
+	
+	margin:75px auto 75px auto;
+	width:50%;
+	text-align:center;
+	color:black;
+	font-family:helvetica;
+	
+	
+}
+
+a{
+	/* border:2px solid blue; */
+	border-radius:20px;
+	padding:10px 100px 10px 100px;
+	background-color:red;
+	color:white;
+	text-decoration:none;
+	font-family:arial;
+	box-shadow:4px 4px 5px grey;
+
+}
+
+
+.loglink{
+	/* border:2px solid blue; */
+	border-radius:20px;
+	padding:10px 20px 10px 20px;
+	background-color:red;
+	color:white;
+	text-decoration:none;
+	font-family:arial;
+	box-shadow:4px 4px 5px grey;
+
+}
+
+
+.divlog{
+	
+		margin-top:10px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+
+}
+
+
+
+
+.login{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin-bottom:20px;
+
+}
+
+.signup{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+}
